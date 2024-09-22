@@ -1,13 +1,7 @@
-/*Loader*/
-
-
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400&display=swap');
 body {
     background-color: #FEF4E9;
     font-family: 'Merriweather';
-    -webkit-user-select: none;
-      -moz-user-select: none;
-      -ms-user-select: none;
-      user-select: none;
 }
 /*header*/
 .header {
@@ -474,7 +468,8 @@ height: 250px;
 .vignettePdc,
 .photoPDC{
     width: 700px;
-    height: 400px;
+    height: 4git commit -m "Votre message de commit"
+    00px;
     margin: auto;
 }
 
