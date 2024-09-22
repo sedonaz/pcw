@@ -1,0 +1,8 @@
+# Autoriser tous les robots à accéder à toutes les pages
+User-agent: *
+
+# Bloquer l'accès à certains dossiers (si nécessaire)
+# Disallow: /dossier-a-bloquer/
+
+# Indiquer le chemin du sitemap
+Sitemap: https://www.pauline-copywriter.com/sitemap.xml

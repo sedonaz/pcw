@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <!-- Page d'accueil -->
+   <url>
+      <loc>https://www.pauline-copywriter.com/index.html</loc>
+      <lastmod>2024-09-11</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+   </url>
+   
+   <!-- Page des services -->
+   <url>
+      <loc>https://www.pauline-copywriter.com/MesServices.html</loc>
+      <lastmod>2024-09-11</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+   </url>
+   
+   <!-- Page portfolio -->
+   <url>
+      <loc>https://www.pauline-copywriter.com/portfolio.html</loc>
+      <lastmod>2024-09-11</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   
+   <!-- Page de contact -->
+   <url>
+      <loc>https://www.pauline-copywriter.com/contact.html</loc>
+      <lastmod>2024-09-11</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   
+   <!-- Page automatisation -->
+   <url>
+      <loc>https://www.pauline-copywriter.com/automatisation.html</loc>
+      <lastmod>2024-09-11</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   
+   <!-- Page de newsletter -->
+   <url>
+      <loc>https://www.pauline-copywriter.com/newsletter.html</loc>
+      <lastmod>2024-09-11</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+   </url>
+   
+   <!-- Page de capture -->
+   <url>
+      <loc>https://www.pauline-copywriter.com/pagesDeCapture.html</loc>
+      <lastmod>2024-09-11</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+   </url>
+   
+   <!-- Page de vente -->
+   <url>
+      <loc>https://www.pauline-copywriter.com/pagesDeVente.html</loc>
+      <lastmod>2024-09-11</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+   </url>
+   
+   <!-- Séquences -->
+   <url>
+      <loc>https://www.pauline-copywriter.com/sequence.html</loc>
+      <lastmod>2024-09-11</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   
+   <!-- Page tunnel de vente -->
+   <url>
+      <loc>https://www.pauline-copywriter.com/tunnel.html</loc>
+      <lastmod>2024-09-11</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.4</priority>
+   </url>
+
+   <!-- Page Template newsletter -->
+   <url>
+      <loc>https://www.pauline-copywriter.com/templateNL.html</loc>
+      <lastmod>2024-09-11</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.4</priority>
+   </url>
+   
+   <!-- Page Template pdc -->
+   <url>
+      <loc>https://www.pauline-copywriter.com/templatePDC.html</loc>
+      <lastmod>2024-09-11</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.4</priority>
+   </url>
+   
+   <!-- Page Template pdv -->
+   <url>
+      <loc>https://www.pauline-copywriter.com/templatePDV.html</loc>
+      <lastmod>2024-09-11</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.4</priority>
+   </url>
+</urlset>
